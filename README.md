@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Feroz
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on (Nothing for Now)
+- 💞️ I’m looking to collaborate on projects
 - 📫 You Can reach me at muhammadferoz760@gmail.com
 
 <!---
